@@ -43,7 +43,7 @@ int main (void)
     {
         if(card_num / 10000000000000 == 34 || card_num / 10000000000000 == 37)
           printf("AMEX\n");
-        else if(card_num / 100000000000000 >=51 && card_num / 100000000000000 <= 55)
+        else if(card_num / 100000000000000 >= 51 && card_num / 100000000000000 <= 55)
           printf("MASTERCARD\n");
         else if(card_num / 1000000000000000 == 4 || card_num / 1000000000000 == 4)
           printf("VISA\n");
