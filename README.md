@@ -10,4 +10,5 @@
 
 ## Progress
 Example:
-1. [name] ([github nick]) [pset submitted]
+1. Ritik (ritikgarg07) [pset1]
+2. Ritik (ritikgarg07) [pset2]
