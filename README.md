@@ -13,4 +13,4 @@
 Example:
 1. [name] ([github nick]) [progress]
 1. Lingesh (nootnooot) pset1
-2. Ritik (ritikgarg07) pset2
+2. Ritik (ritikgarg07) pset3
