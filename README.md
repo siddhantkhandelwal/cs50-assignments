@@ -11,8 +11,4 @@
 ## Progress
 Example:
 1. [name] ([github nick]) [pset submitted]
-<<<<<<< HEAD
-    Ashrya ashryaagr pset2
-=======
-Ashrya Agrawal (ashryaagr) pset 1
->>>>>>> 8bbd79faace00c1fc542ff2d8a202baf4b7c10df
+Ashrya ashryaagr pset2
