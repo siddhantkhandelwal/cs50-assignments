@@ -12,7 +12,7 @@ int count=0;
 
 typedef struct node
 {
-   int valid;
+   bool valid;
    struct node * child[27];
 }node;
 
@@ -30,7 +30,7 @@ bool check(const char *word)
         if (temp->child[h]==NULL) return false;
         else temp=temp->child[h];
     }
-    if(temp->valid==1)
+    if(temp->valid==true)
     return true;
     else return false;
 }
@@ -63,7 +63,7 @@ bool load(const char *dictionary)
                temp=temp->child[h];
            }
            else{
-               count++;temp->valid=1;temp=root;
+               count++;temp->valid=false;temp=root;
            }
        }
        return true;
