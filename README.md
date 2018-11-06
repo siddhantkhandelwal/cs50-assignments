@@ -9,4 +9,13 @@
 - Update the below section with your progress
 
 ## Progress
-1. Aarjav Jain; aarjavjain1; pset1 submitted
+
+Example:
+
+1. [name] ([github nick]) [progress]
+
+___________________________________________________
+
+1. Lingesh (nootnooot) pset1
+2. Ritik (ritikgarg07) pset2
+3. Prarabdh (PrarabdhGarg) pset2
