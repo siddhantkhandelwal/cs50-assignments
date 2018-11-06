@@ -9,5 +9,4 @@
 - Update the below section with your progress
 
 ## Progress
-Example:
-1. [name] ([github nick]) [pset submitted]
+1. Aarjav Jain; aarjavjain1; pset1 submitted
