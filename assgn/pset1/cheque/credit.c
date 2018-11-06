@@ -1,9 +1,11 @@
+//Program to verify Credit Card Numebrs
 #include <stdio.h>
 #include <cs50.h>
 #include <string.h>
 #include <ctype.h>
 #include <math.h>
 
+//Function to verify Card Numbers
 int checkfunction(long long n, int length){
     int sum = 0;
     for (int i = 1; i <= length; i++){
@@ -53,7 +55,7 @@ int main(void)
         }
     }
     //printf("%i\n", length);
-
+//To distinguish between the cards
     int firstdigit = n / pow(10, length-1);
     int buffer = (n / pow(10, length-2));
     int seconddigit = buffer % 10;
