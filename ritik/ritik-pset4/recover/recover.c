@@ -11,7 +11,7 @@ int main(int argc, string argv[])
         fprintf(stderr, "Usage: copy infile outfile\n");
         return 1;
     }
-    // open memory card file
+
     FILE* input = fopen(argv[1], "r");
     if (input == NULL)
     {
@@ -30,7 +30,7 @@ int main(int argc, string argv[])
 
     while (fread(buffer, BUFFER_SIZE, 1, input) == 1)
     {
-        if (buffer[0] == 0xff && buffer[1] == 0xd8 && buffer[2] == 0xff && (buffer[3] & 0xe0) == 0xe0)
+        if (buffer[0] == 0xff && buffer[1] == 0xd8 && buffer[2] == 0xff && buffer[3] == 0xe0)
         {
             if (jpeg_found == 1)
             {
