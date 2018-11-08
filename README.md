@@ -19,3 +19,4 @@ ___________________________________________________
 1. Lingesh (nootnooot) pset1
 2. Ritik (ritikgarg07) pset2
 3. Prarabdh (PrarabdhGarg) pset2
+4. R.Rohit(gateway2745) pset2+pset3
