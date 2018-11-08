@@ -12,4 +12,4 @@
 Example:
 1. [name] ([github nick]) [pset submitted]
 
-Samina (samina-mulani) Pset3
+Samina (samina-mulani) Pset4
