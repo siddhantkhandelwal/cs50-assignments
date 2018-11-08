@@ -9,7 +9,15 @@
 - Update the below section with your progress
 
 ## Progress
-Example:
-1. [name] ([github nick]) [pset submitted]
 
-Samina (samina-mulani) Pset4
+Example:
+
+1. [name] ([github nick]) [progress]
+
+___________________________________________________
+
+1. Lingesh (nootnooot) pset1
+2. Ritik (ritikgarg07) pset2
+3. Prarabdh (PrarabdhGarg) pset2
+4. Shreyasi (SGRv2) pset2
+5. Samina (samina-mulani) pset4
