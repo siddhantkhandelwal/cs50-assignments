@@ -143,5 +143,5 @@ int main(int argc, char *argv[])
     // close outfile
     fclose(outptr);
 
-    return 0;
+     return 0;
 }
