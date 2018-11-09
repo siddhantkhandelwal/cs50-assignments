@@ -9,6 +9,7 @@
 - Update the below section with your progress
 
 ## Progress
+
 Example:
 
 1.[name] ([github nick]) [progress]
