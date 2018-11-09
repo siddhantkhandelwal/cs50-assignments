@@ -15,7 +15,7 @@ Example:
 ___________________________________________________
 
 1. Lingesh (nootnooot) pset5
-2. Ritik (ritikgarg07) pset2
+2. Ritik (ritikgarg07) pset4
 3. Prarabdh (PrarabdhGarg) pset2
 4. Sparsh (ult999) pset4
 5. Shreyasi (SGRv2) pset2
