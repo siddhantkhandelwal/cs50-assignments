@@ -9,12 +9,12 @@
 - Update the below section with your progress
 
 ## Progress
-
 Example:
 1. [name] ([github nick]) [progress]
 
 ___________________________________________________
-1. Lingesh (nootnooot) pset1
+
+1. Lingesh (nootnooot) pset5
 2. Ritik (ritikgarg07) pset2
 3. Prarabdh (PrarabdhGarg) pset2
 4. Sparsh (ult999) pset2

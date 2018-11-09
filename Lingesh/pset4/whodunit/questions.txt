@@ -1,0 +1,26 @@
+1.  stdint is a header file that declares and allows users to use integers of 
+    various widths, and not restricted to the 4 Byte int.
+2.  They are all integers of various widths. These can be used when we know 
+    exactly what kind of values we will be storing in these variables, like
+    memory addresses for example.
+3.  BYTE - 1 Byte
+    DWORD - 4 Bytes
+    LONG - 4 Bytes
+    WORD - 2 Bytes
+4.  0x42 0x4D
+    Represents BM in ASCII.
+5.  bfSize is the size, in bytes, of the entire BMP file.
+    biSize is the number of bytes required for the INFOHEADER.
+6.  In some cases, where every pixel's data is stored from top to bottom, 
+    biHeight will have a negative value.
+7.  biBitCount specifies the number of bits per pixel.
+8.  fopen might return NULL if it is unable to create the file due to lack of
+    free space or limited system rights.
+9.  The third arg of fread() takes in the number of elements to read. Since we 
+    use fread() to read one Bitmap's file and info header, the third argument 
+    of fread() is one as each bitmap has only one header.
+10. If bi.biWidth is 3, padding gets the value 0.
+11. fseek() is used to skip over few bytes from current indicator while reading
+    a file's data. (Like an offset)
+12. SEEK_CUR offsets the file position indicator with respect to the current 
+    position indicator.
