@@ -1,0 +1,22 @@
+0.  A 45 letter word for a lung disease
+1.  Returns resource usage
+2.  16 data members 
+3.  Since the rusage struct contains 16 data members, 14 ow which are of type
+    long, passing by value will utilize a lot of space as a copy of the variable
+    is created when passing by value.
+4.  The for loop in the main function of speller.c iterates over the contents of 
+    the test file. Each time it hits a character, or an apostrophe when not at 
+    the beginning of a word, it stores that character in an array, thereby 
+    creating an array that stores a word. If it so happens that the word it is
+    currently going over is longer than the longest word in the dictionary (45 
+    letters) it doesn't store the reamining characters until it hits a new one 
+    (located on a new line). When it reaches the end of a word (i.e. it doesn't
+    find any character), it terminates the current word array with a '\0' which
+    can now be manipulated as a string. In this way, it goes over the entire
+    file, updating a counter telling us the number of words.
+5.  Sicne fgetc reads character by character, and fscanf reads the whole string
+    at once, the program may not function as intended is a string that is longer
+    than expected is read.
+6.  We do not want to change the word given to the function. Words in a 
+    dictionary are not supposed to change. Thus it is safer to declare it as 
+    a const.
