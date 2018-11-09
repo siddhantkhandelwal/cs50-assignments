@@ -1,0 +1,17 @@
+1)The <stdint.h> header declares sets of integer types having specified widths, and corresponding sets of macros. 
+2)Preserve the correct numerical values of various properties according and to the protocol.
+3)BYTE = 1 byte 
+  DWORD = 4 bytes 
+  LONG = 4 bytes 
+  WORD = 2 bytes
+4)0x42 0x4D
+    Represents BM in ASCII.
+5)bfSize = The size, in bytes, of the bitmap file.
+  biSize is the number of bits required for the INFOHEADER.
+6)If biHeight is negative, the bitmap is a top-down .
+7)biBitCount
+8) fopen might return NULL if it is unable to create the file due to lack of free space or limited system rights.
+9)Because there's only one file header and info header sizeof() returns the number of bytes necessary to store the entire structure.
+10)3
+11)Sets the file position indicator for the file stream stream to the value pointed to by offset.
+12)It's a flag that determines the originating position of the fseek file operation.
