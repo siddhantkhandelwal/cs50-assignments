@@ -11,4 +11,8 @@
 ## Progress
 Example:
 1. [name] ([github nick]) [pset submitted]
-Ashrya ashryaagr pset3
+1. Lingesh (nootnooot) pset1
+2. Ritik (ritikgarg07) pset2
+3. Prarabdh (PrarabdhGarg) pset2
+4. Shreyasi (SGRv2) pset2
+5. Ashrya (ashryaagr) pset4
