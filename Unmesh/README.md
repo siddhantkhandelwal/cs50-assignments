@@ -9,4 +9,6 @@
 - Update the below section with your progress
 
 ## Progress
+Example:
+1.[name] ([github nick]) [progress]
 1. Unmesh Roy (RUnmesh) pset5
