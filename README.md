@@ -10,5 +10,17 @@
 
 ## Progress
 Example:
+
 1.[name] ([github nick]) [progress]
-1. Unmesh Roy (RUnmesh) pset5
+___________________________________________________
+
+1. Lingesh (nootnooot) pset5
+2. Ritik (ritikgarg07) pset2
+3. Prarabdh (PrarabdhGarg) pset2
+4. Sparsh (ult999) pset2
+5. Shreyasi (SGRv2) pset2
+6. R.Rohit(Gateway2745) pset3
+7. Ashrya (ashryaagr) pset4
+8. Samina (samina-mulani) pset4
+9. Aarjav (aarjavjain1) pset4
+10. Unmesh Roy (RUnmesh) pset5
